@@ -1,0 +1,7 @@
+anytree
+watchdog
+pywin32
+# Testing
+pytest
+
+rich
